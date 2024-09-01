@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 From learning C++, Python, Java, and some programming basics while in university to learning Tensorflow, Flask, React, and more after graduation, I have accumulated a reservoir of skills that I am building apon constantly.
 
 📖 Outside of tech, I enjoy stories whether by movies, TV shows, or books. I love stories that incorporate mysterious elements that leans towards lovecraftian horror.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
