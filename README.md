@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About me
-👋 I am George Yeh, a **software developer** currently persuing a masters in software engineering and is intrested in many different areas all the way from **web developement** to **AI**.
+👋 I am George Yeh, a developer currently persuing a masters in software engineering and is intrested in many different areas all the way from **full-stack development** to **ML**.
 
 😄 I enjoy working on projects and am enthusiastic about current and emerging technologies and is always looking to discover new ways to apply them. 
 From learning C++, Python, Java, and some programming basics while in university to learning Tensorflow, Flask, React, and more after graduation, I have accumulated a reservoir of skills that I am building apon constantly.
@@ -24,3 +24,11 @@ From learning C++, Python, Java, and some programming basics while in university
 📖 Outside of tech, I enjoy stories whether by movies, TV shows, or books. I love stories that incorporate mysterious elements that leans towards lovecraftian horror.
 
 💬 Social: [LinkedIn](https://www.linkedin.com/in/george-yichen-yeh/)
+
+### Try Out My Projects:
+
+Front End Projets:
+  [Tea Shop](https://tea-shop-woad.vercel.app/)
+
+Back End Projects:
+  [Inventory Manager](inventory-tracking-webapp.vercel.app) [Cam to Web](https://hub.docker.com/r/squidcaptain/cam_to_web)
