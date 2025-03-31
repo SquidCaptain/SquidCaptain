@@ -31,4 +31,4 @@ Front End Projets:
   [Tea Shop](https://tea-shop-woad.vercel.app/)
 
 Back End Projects:
-  [Inventory Manager](inventory-tracking-webapp.vercel.app) [Cam to Web](https://hub.docker.com/r/squidcaptain/cam_to_web)
+  [Inventory Manager](inventory-tracking-webapp.vercel.app), [Cam to Web](https://hub.docker.com/r/squidcaptain/cam_to_web)
