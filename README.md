@@ -15,20 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 About me
-👋 I am George Yeh, a developer currently persuing a masters in software engineering and is intrested in many different areas all the way from **full-stack development** to **ML**.
+## 🚀 About Me
 
-😄 I enjoy working on projects and am enthusiastic about current and emerging technologies and is always looking to discover new ways to apply them. 
-From learning C++, Python, Java, and some programming basics while in university to learning Tensorflow, Flask, React, and more after graduation, I have accumulated a reservoir of skills that I am building apon constantly.
+👋 Hi, I’m **George** — a data-focused developer currently pursuing a **Master’s in Engineering** with a strong interest in **Data Science, Machine Learning, and full-stack development**.
 
-📖 Outside of tech, I enjoy stories whether by movies, TV shows, or books. I love stories that incorporate mysterious elements that leans towards lovecraftian horror.
+I enjoy building projects end-to-end: from designing databases and writing efficient SQL queries, to training machine learning models and presenting insights through dashboards and web applications. I’m especially interested in applying data and ML to solve real-world business and product problems.
 
-💬 Social: [LinkedIn](https://www.linkedin.com/in/george-yichen-yeh/)
+Over time, I’ve built a solid technical foundation through both academic work and hands-on projects, working with technologies such as **Python, SQL, PostgreSQL, TensorFlow, Flask, React**, and data visualization tools like **Tableau**. I’m always exploring new tools and frameworks to deepen my skill set and improve how I translate data into impact.
 
-### Try Out My Projects:
+📖 Outside of tech, I’m a big fan of storytelling — whether through movies, TV shows, or books — particularly stories with mysterious or Lovecraftian elements.
 
-Front End Projets:
-  [Tea Shop](https://tea-shop-woad.vercel.app/)
+💬 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/george-yichen-yeh/)
 
-Back End Projects:
-  [Inventory Manager](https://inventory-tracking-webapp.vercel.app), [Cam to Web](https://hub.docker.com/r/squidcaptain/cam_to_web)
+---
+
+## 🧪 Featured Projects
+
+### 📊 Data & Analytics
+- **E-commerce Sales Performance Analysis**  
+  End-to-end data analysis project using **PostgreSQL, SQLAlchemy, Python, Pandas, and Tableau** to evaluate category and subcategory performance against revenue targets. The project identifies key drivers of profitability, uncovers a major business inflection point, and provides data-backed product strategy recommendations.  
+  **Skills:** SQL, PostgreSQL, Data Modeling, Pandas, Data Visualization, Tableau  
+  👉 https://github.com/SquidCaptain/E-Commerce-Analysis/blob/main/notebooks/visualization.ipynb
+
+### 🌐 Front-End
+- **Tea Shop**  
+  A modern e-commerce style frontend built with React  
+  👉 https://tea-shop-woad.vercel.app/
+
+### ⚙️ Back-End / Systems
+- **Inventory Manager**  
+  A backend-focused inventory tracking web application  
+  👉 https://inventory-tracking-webapp.vercel.app/
+
+- **Cam to Web**  
+  Dockerized service for streaming camera feeds to the web  
+  👉 https://hub.docker.com/r/squidcaptain/cam_to_web
