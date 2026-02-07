@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-👋 Hi, I’m **George** a developer currently pursuing a **Master’s in Engineering** with a strong interest in **Data Science, Machine Learning, and full-stack development**.
+👋 Hi, I’m **George** a developer currently pursuing a Master’s in Engineering with a strong interest in **Data Science, Machine Learning, and full-stack development**.
 
 I enjoy building projects end-to-end: from gathering and manipulating data, to training machine learning models and creating web applications. I’m especially interested in applying data and ML to solve real-world problems.
 
