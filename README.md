@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-👋 Hi, I’m **George** — a data-focused developer currently pursuing a **Master’s in Engineering** with a strong interest in **Data Science, Machine Learning, and full-stack development**.
+👋 Hi, I’m **George** — a developer currently pursuing a **Master’s in Engineering** with a strong interest in **Data Science, Machine Learning, and full-stack development**.
 
-I enjoy building projects end-to-end: from designing databases and writing efficient SQL queries, to training machine learning models and presenting insights through dashboards and web applications. I’m especially interested in applying data and ML to solve real-world business and product problems.
+I enjoy building projects end-to-end: from gathering and manipulating data, to training machine learning models and creating web applications. I’m especially interested in applying data and ML to solve real-world problems.
 
-Over time, I’ve built a solid technical foundation through both academic work and hands-on projects, working with technologies such as **Python, SQL, PostgreSQL, TensorFlow, Flask, React**, and data visualization tools like **Tableau**. I’m always exploring new tools and frameworks to deepen my skill set and improve how I translate data into impact.
+Over time, I’ve built a solid technical foundation through both academic work and hands-on projects, working with technologies such as **Python, SQL, PostgreSQL, TensorFlow, Flask, React**. I’m always exploring new tools and frameworks to deepen my skill set and improve how I translate data into impact.
 
 📖 Outside of tech, I’m a big fan of storytelling — whether through movies, TV shows, or books — particularly stories with mysterious or Lovecraftian elements.
 
