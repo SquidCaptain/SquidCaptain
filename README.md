@@ -44,7 +44,7 @@ Over time, I’ve built a solid technical foundation through both academic work 
 
 ### 🌐 Front-End
 - **Tea Shop**  
-  A modern e-commerce style frontend
+  A modern e-commerce style frontend  
   👉 https://tea-shop-woad.vercel.app/
 
 ### ⚙️ Back-End / Systems
