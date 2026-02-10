@@ -34,12 +34,11 @@ Over time, I’ve built a solid technical foundation through both academic work 
 
 ### 📊 Data & Analytics
 - **E-commerce Sales Performance Analysis**  
-  End-to-end data analysis project using PostgreSQL, SQLAlchemy, Python, Pandas, and Tableau to evaluate category and subcategory performance against revenue targets. The project identifies key drivers of profitability, uncovers a major business inflection point, and provides data-backed product strategy recommendations.  
+  End-to-end data analysis project using PostgreSQL, SQLAlchemy, Python, Pandas, and Tableau to evaluate category and subcategory performance against revenue targets.  
   👉 https://github.com/SquidCaptain/E-Commerce-Analysis/blob/main/notebooks/visualization.ipynb
 
 - **Store Sales Forecasting (Time Series & Machine Learning)**  
-  Built an end-to-end **sales forecasting pipeline** to predict monthly store sales using historical transaction data. Engineered lagged and rolling-window features to capture temporal patterns, and trained multiple models including Linear Regression, Random Forest, XGBoost, and LightGBM.  
-  Achieved up to 37% RMSE improvement over naive baselines and selected a top-3 voting ensemble as the final model for improved accuracy and robustness.  
+  Built an end-to-end sales forecasting pipeline to predict monthly store sales using historical transaction data.  
   👉 https://github.com/SquidCaptain/Sales-Forecasting
 
 ### 🌐 Front-End
